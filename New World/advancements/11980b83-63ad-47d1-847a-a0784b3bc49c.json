@@ -12,6 +12,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/greenslimydirt": {
+    "criteria": {
+      "Obtain Green Slime Dirt": "2024-07-18 01:49:17 +0300"
+    },
+    "done": false
+  },
   "sf4:age1/complete": {
     "criteria": {
       "Completed Tin Man§r": "2024-07-16 22:42:08 +0300",
@@ -31,6 +37,8 @@
       "Completed Nap Time§r": "2024-07-16 22:07:51 +0300",
       "Completed Captain Hook§r": "2024-07-16 21:56:21 +0300",
       "Completed Not a Helmet§r": "2024-07-16 22:34:42 +0300",
+      "Completed Study in the Dark Arts§r": "2024-07-18 00:32:07 +0300",
+      "Completed It\u0027s Electric§r": "2024-07-18 01:00:58 +0300",
       "Completed Dirty Dancing§r": "2024-07-15 17:35:08 +0300",
       "Completed Amber is the Color of my Dinosaur§r": "2024-07-16 22:01:19 +0300",
       "Completed SkyFactory 4§r": "2024-07-15 16:09:45 +0300",
@@ -38,6 +46,8 @@
       "Completed Lead Zeppelin§r": "2024-07-16 23:23:38 +0300",
       "Completed Lead it Go§r": "2024-07-16 23:21:56 +0300",
       "Completed Bubble, Bubble§r": "2024-07-15 19:20:24 +0300",
+      "Completed One Shiny Boi§r": "2024-07-18 01:57:44 +0300",
+      "Completed Money Grows on Trees§r": "2024-07-18 02:01:29 +0300",
       "Completed Slop in the Bucket§r": "2024-07-15 19:22:03 +0300",
       "Completed You Cotton Something?§r": "2024-07-15 20:21:04 +0300",
       "Completed On the Rocks§r": "2024-07-15 18:12:57 +0300",
@@ -48,7 +58,9 @@
       "Completed Hardwood§r": "2024-07-15 17:45:47 +0300",
       "Completed Sixteen Tons§r": "2024-07-15 20:07:12 +0300",
       "Completed Eating Dirt§r": "2024-07-15 18:24:48 +0300",
-      "Completed Clay Aiken§r": "2024-07-15 18:26:44 +0300"
+      "Completed Clay Aiken§r": "2024-07-15 18:26:44 +0300",
+      "Completed I\u0027ve Been Slimed§r": "2024-07-18 01:49:17 +0300",
+      "Completed I Don\u0027t Know§r": "2024-07-18 01:48:28 +0300"
     },
     "done": false
   },
@@ -67,9 +79,10 @@
   },
   "sf4:age1/sapling/slime": {
     "criteria": {
-      "Completed Root": "2024-07-15 16:09:45 +0300"
+      "Completed Root": "2024-07-15 16:09:45 +0300",
+      "Obtain Blue Slime Sapling": "2024-07-18 01:48:28 +0300"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/string": {
     "criteria": {
@@ -82,7 +95,8 @@
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2024-07-15 16:09:45 +0300",
-      "Completed Age of Storage§r": "2024-07-15 16:09:44 +0300"
+      "Completed Age of Storage§r": "2024-07-15 16:09:44 +0300",
+      "Completed Hop to It§r": "2024-07-17 23:55:06 +0300"
     },
     "done": false
   },
@@ -95,9 +109,10 @@
   },
   "sf4:age1/sapling/redstone": {
     "criteria": {
-      "Completed Root": "2024-07-15 16:09:45 +0300"
+      "Completed Root": "2024-07-15 16:09:45 +0300",
+      "Obtain Redstone Sapling": "2024-07-18 01:00:58 +0300"
     },
-    "done": false
+    "done": true
   },
   "compactmachines:test/3x3x3": {
     "criteria": {
@@ -139,7 +154,14 @@
   },
   "sf4:age_storage/complete": {
     "criteria": {
-      "Completed Age of Storage§r": "2024-07-15 16:09:44 +0300"
+      "Completed Age of Storage§r": "2024-07-15 16:09:44 +0300",
+      "Completed Hop to It§r": "2024-07-17 23:55:06 +0300"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/slimesapling": {
+    "criteria": {
+      "Obtain Blue Slime Sapling": "2024-07-18 01:48:28 +0300"
     },
     "done": false
   },
@@ -154,6 +176,12 @@
       "Obtain Wheat Seeds": "2024-07-16 23:45:23 +0300"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/gold": {
+    "criteria": {
+      "Obtain Gold Amber": "2024-07-18 01:57:44 +0300"
+    },
+    "done": false
   },
   "sf4:age1/lavasource": {
     "criteria": {
@@ -179,6 +207,12 @@
       "Prestige Mode Disabled": "2024-07-15 16:09:45 +0300",
       "Completed Age of Enhancement§r": "2024-07-15 16:09:44 +0300",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2024-07-15 21:24:57 +0300"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/goldsapling": {
+    "criteria": {
+      "Obtain Gold Sapling": "2024-07-18 02:01:29 +0300"
     },
     "done": false
   },
@@ -209,6 +243,8 @@
       "Completed Nap Time§r": "2024-07-16 22:07:51 +0300",
       "Completed Captain Hook§r": "2024-07-16 21:56:21 +0300",
       "Completed Not a Helmet§r": "2024-07-16 22:34:42 +0300",
+      "Completed Study in the Dark Arts§r": "2024-07-18 00:32:07 +0300",
+      "Completed It\u0027s Electric§r": "2024-07-18 01:00:58 +0300",
       "Completed Dirty Dancing§r": "2024-07-15 17:35:08 +0300",
       "Completed Amber is the Color of my Dinosaur§r": "2024-07-16 22:01:19 +0300",
       "Completed SkyFactory 4§r": "2024-07-15 16:09:45 +0300",
@@ -216,6 +252,8 @@
       "Completed Lead Zeppelin§r": "2024-07-16 23:23:38 +0300",
       "Completed Lead it Go§r": "2024-07-16 23:21:56 +0300",
       "Completed Bubble, Bubble§r": "2024-07-15 19:20:24 +0300",
+      "Completed One Shiny Boi§r": "2024-07-18 01:57:44 +0300",
+      "Completed Money Grows on Trees§r": "2024-07-18 02:01:29 +0300",
       "Completed Slop in the Bucket§r": "2024-07-15 19:22:03 +0300",
       "Completed You Cotton Something?§r": "2024-07-15 20:21:04 +0300",
       "Completed On the Rocks§r": "2024-07-15 18:12:57 +0300",
@@ -226,7 +264,9 @@
       "Completed Hardwood§r": "2024-07-15 17:45:47 +0300",
       "Completed Sixteen Tons§r": "2024-07-15 20:07:12 +0300",
       "Completed Eating Dirt§r": "2024-07-15 18:24:48 +0300",
-      "Completed Clay Aiken§r": "2024-07-15 18:26:44 +0300"
+      "Completed Clay Aiken§r": "2024-07-15 18:26:44 +0300",
+      "Completed I\u0027ve Been Slimed§r": "2024-07-18 01:49:17 +0300",
+      "Completed I Don\u0027t Know§r": "2024-07-18 01:48:28 +0300"
     },
     "done": false
   },
@@ -252,6 +292,12 @@
   "tutorial:tutorial/copied/claysapling": {
     "criteria": {
       "Obtain a Clay Sapling": "2024-07-15 18:26:44 +0300"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/obsidian": {
+    "criteria": {
+      "Obtain Obsidian": "2024-07-18 00:32:07 +0300"
     },
     "done": false
   },
@@ -405,9 +451,10 @@
   },
   "sf4:age1/sapling/gold": {
     "criteria": {
-      "Completed Root": "2024-07-15 16:09:45 +0300"
+      "Completed Root": "2024-07-15 16:09:45 +0300",
+      "Obtain Gold Sapling": "2024-07-18 02:01:29 +0300"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_farming/sugarcaneseed": {
     "criteria": {
@@ -481,13 +528,20 @@
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
-      "Completed Root": "2024-07-15 16:09:45 +0300"
+      "Completed Root": "2024-07-15 16:09:45 +0300",
+      "Obtain Green Slime Dirt": "2024-07-18 01:49:17 +0300"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/tank": {
     "criteria": {
       "Obtain Tank": "2024-07-15 21:24:57 +0300"
+    },
+    "done": true
+  },
+  "sf4:age_storage/hopper": {
+    "criteria": {
+      "Obtain Hopper": "2024-07-17 23:55:06 +0300"
     },
     "done": true
   },
@@ -537,9 +591,10 @@
   },
   "sf4:age1/amber/gold": {
     "criteria": {
-      "Completed Root": "2024-07-15 16:09:45 +0300"
+      "Completed Root": "2024-07-15 16:09:45 +0300",
+      "Obtain Gold Amber": "2024-07-18 01:57:44 +0300"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/dirtsapling": {
     "criteria": {
@@ -564,6 +619,8 @@
       "Obtain Tin Sapling": "2024-07-16 22:44:55 +0300",
       "Obtain Iron Sapling": "2024-07-16 22:15:00 +0300",
       "Obtain Sand Sapling": "2024-07-15 19:51:16 +0300",
+      "Obtain Gold Sapling": "2024-07-18 02:01:29 +0300",
+      "Obtain Redstone Sapling": "2024-07-18 01:00:58 +0300",
       "Obtain Clay Sapling": "2024-07-15 18:26:44 +0300",
       "Obtain Gravel Sapling": "2024-07-15 19:35:01 +0300",
       "Obtain Bone Sapling": "2024-07-15 18:37:49 +0300"
@@ -635,9 +692,10 @@
   },
   "sf4:age1/obsidian": {
     "criteria": {
-      "Completed Root": "2024-07-15 16:09:45 +0300"
+      "Completed Root": "2024-07-15 16:09:45 +0300",
+      "Obtain Obsidian": "2024-07-18 00:32:07 +0300"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/copied/lava": {
     "criteria": {
